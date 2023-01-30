@@ -1,0 +1,61 @@
+.titutlo {
+    color: black;
+    font-family: large;
+    font-size: 35px;
+    text-align-last: auto;
+    border: 3px solid grey;
+
+}
+
+.columnas {
+    width: 100%;
+    margin: auto;
+}
+
+.columna1 {
+
+
+    width: 17.5%;
+    float: left;
+    background-color: gray;
+    -webkit-box-shadow: 10px 2px 31px -14px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 2px 31px -14px rgba(0,0,0,0.75);
+    box-shadow: 10px 2px 31px -14px rgba(0,0,0,0.75);
+    position: fixed;
+
+}
+
+.columna2 {
+    width: 70%;
+    float: right;
+    margin-bottom: 50px;
+}
+
+
+.p2 {
+    color: black;
+    font-weight: 600;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+
+}
+.dividir {
+    border-bottom: 1px solid #DDD;
+    margin: 36px 160px 29px 7px;
+}
+.lista {
+    list-style: none;
+    padding-left:15px;
+}
+
+.margen {
+    width: 100%;
+    margin: 20px;
+}
+.fa {
+    padding-right: 15px;
+}
+.puntito {
+    line-height: 25px;
+}
